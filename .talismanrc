@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: Cargo.toml
+  checksum: c5f517dc18390bfe6da29a7fdcb5a41d2d644e3424966da77c501382d62951e4
+version: ""
