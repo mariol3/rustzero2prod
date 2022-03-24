@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: Cargo.toml
   checksum: c5f517dc18390bfe6da29a7fdcb5a41d2d644e3424966da77c501382d62951e4
+- filename: Cargo.lock
+  checksum: f202cff251ba91c56fdd06bd47756337660d78b66543e89fdd001dbb3612fa7b
 version: ""
